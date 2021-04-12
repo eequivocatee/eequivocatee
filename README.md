@@ -1,4 +1,10 @@
+# eequivocatee
+
+A test account belonging to [someone](https://github.com/vivian-dai) to test out certain Github features.
+
 ### Hi there 👋
+
+:D don't DDOS me
 
 <!--
 **eequivocatee/eequivocatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
